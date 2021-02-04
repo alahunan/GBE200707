@@ -1,5 +1,5 @@
 # GBE200707
-Perl scripts used in analysis
+Perl scripts used in the research described in the manuscript GBE200707.R1
 
 The Perl scripts in the folder 'consensus' are scripts used for mutation analysis based on the consensus sequences of SARS-CoV-2.
 
